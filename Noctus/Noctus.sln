@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noctus", "Noctus\Noctus.csproj", "{F05856F1-A7B3-43A4-8E61-DB7E2A06E8CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F86E67E7-7A05-4BF7-90F0-B48CA46DC306} = {F86E67E7-7A05-4BF7-90F0-B48CA46DC306}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Noctus.Core", "Core\Noctus.Core.csproj", "{F86E67E7-7A05-4BF7-90F0-B48CA46DC306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05856F1-A7B3-43A4-8E61-DB7E2A06E8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05856F1-A7B3-43A4-8E61-DB7E2A06E8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05856F1-A7B3-43A4-8E61-DB7E2A06E8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05856F1-A7B3-43A4-8E61-DB7E2A06E8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86E67E7-7A05-4BF7-90F0-B48CA46DC306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86E67E7-7A05-4BF7-90F0-B48CA46DC306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86E67E7-7A05-4BF7-90F0-B48CA46DC306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86E67E7-7A05-4BF7-90F0-B48CA46DC306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622F5A3C-3FB3-4A91-B2C0-402AF077A3C1}
+	EndGlobalSection
+EndGlobal

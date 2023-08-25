@@ -1,0 +1,14 @@
+C:\Users\Turana\source\repos\Noctus\Core\bin\Debug\net6.0\Noctus.Core.deps.json
+C:\Users\Turana\source\repos\Noctus\Core\bin\Debug\net6.0\Noctus.Core.dll
+C:\Users\Turana\source\repos\Noctus\Core\bin\Debug\net6.0\Noctus.Core.pdb
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.csproj.AssemblyReference.cache
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.AssemblyInfoInputs.cache
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.AssemblyInfo.cs
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.csproj.CoreCompileInputs.cache
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.dll
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\refint\Noctus.Core.dll
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.pdb
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\ref\Noctus.Core.dll
+C:\Users\Turana\source\repos\Noctus\Core\bin\Debug\net6.0\Noctus.Core.runtimeconfig.json
+C:\Users\Turana\source\repos\Noctus\Core\obj\Debug\net6.0\Noctus.Core.genruntimeconfig.cache
