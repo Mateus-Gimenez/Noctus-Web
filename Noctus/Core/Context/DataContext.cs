@@ -16,6 +16,8 @@ namespace Noctus.Core.Context
         }
 
         public DbSet<Funcionario> Funcionarios { get; set; }
+        public DbSet<PDF> PDFs { get; set; }
+        public DbSet<Alfabeto> Alfabetos { get; set; }
 
     }
 }

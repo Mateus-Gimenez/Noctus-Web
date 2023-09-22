@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-builder.Services.AddDbContext<DataContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("LocalConnection")));
+builder.Services.AddDbContext<DataContext>(op => op.UseMySql(builder.Configuration.GetConnectionString("LocalConnection"), ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("LocalConnection"))));
 
 var app = builder.Build();
 
